@@ -1,1 +1,1 @@
-Practicing bootstrap by creating a restaurant website.
+Practicing bootstrap4 by creating a simple restaurant website.
