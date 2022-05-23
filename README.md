@@ -1,2 +1,0 @@
-#node
-Practicing bootstrap4 by creating a simple restaurant website.
